@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lem0nCat2011.
 - 👀 I’m interested in FURRY!!!
 - 🌱 I’m currently learning C++.
-- 📫 You can chat with me on Luogu.
+- 📫 You can chat with me on Luogu. 👉https://www.luogu.com.cn/user/945996
 
 ⭐ I am not very good at C++, but I think it's interesting. I will try my best to do it well😇
 
